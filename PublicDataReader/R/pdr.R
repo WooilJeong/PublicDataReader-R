@@ -1,7 +1,7 @@
 #' pdr() Function
 #'
 #' This function prints basic information of PublicDataReader
-#' @param NOne
+#' @param None
 #' @keywords pdr
 #' @export
 #' @examples
