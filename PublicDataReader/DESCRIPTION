@@ -1,0 +1,9 @@
+Package: PublicDataReader
+Title: Public data query package for R
+Version: 0.0.1
+Author: Wooil Jeong (wooil@kakao.com)
+Description: PublicDataReader is an R package that helps you easily use Open APIs provided by public data portals and Seoul Open Data Plaza.
+License: MIT License
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
