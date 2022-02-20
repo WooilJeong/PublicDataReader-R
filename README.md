@@ -7,7 +7,7 @@
 
 ```r
 library("devtools")
-devtools::install_github("WooilJeong/PublicDataReader-R/PublicDataReader")
+devtools::install_github("WooilJeong/PublicDataReader-R/PublicDataReader", force=TRUE)
 ```
 
 
